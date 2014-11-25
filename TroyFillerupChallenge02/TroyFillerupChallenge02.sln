@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TroyFillerupChallenge02", "TroyFillerupChallenge02\TroyFillerupChallenge02.csproj", "{01F7525F-D263-461C-84D3-2C960993E826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TroyFillerupChallenge02Tests", "TroyFillerupChallenge02Tests\TroyFillerupChallenge02Tests.csproj", "{22742BC8-AF74-416B-BDE2-BAB0413C0F43}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfillerup.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TroyFillerupChallenge02\\TroyFillerupChallenge02.csproj
+		SccProjectName1 = TroyFillerupChallenge02
+		SccLocalPath1 = TroyFillerupChallenge02
+		SccProjectUniqueName2 = TroyFillerupChallenge02Tests\\TroyFillerupChallenge02Tests.csproj
+		SccProjectName2 = TroyFillerupChallenge02Tests
+		SccLocalPath2 = TroyFillerupChallenge02Tests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F7525F-D263-461C-84D3-2C960993E826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F7525F-D263-461C-84D3-2C960993E826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F7525F-D263-461C-84D3-2C960993E826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F7525F-D263-461C-84D3-2C960993E826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22742BC8-AF74-416B-BDE2-BAB0413C0F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22742BC8-AF74-416B-BDE2-BAB0413C0F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22742BC8-AF74-416B-BDE2-BAB0413C0F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22742BC8-AF74-416B-BDE2-BAB0413C0F43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
